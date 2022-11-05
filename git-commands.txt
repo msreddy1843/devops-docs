@@ -1,0 +1,28 @@
+git clone "ssh url"
+cd repository name
+git branch -a (shows list of branches)
+git brance branchname ( it creates new branch)
+git checkout branchename (swich to another brance)
+git checkout -b branchename (create and switch to branch) 
+git branch -D branchname (to delete branch in local repo)
+git branch origin -d branchname (to delet branch in remote)
+
+vi filename 
+
+hai this is madhu
+devopes 
+
+:wq!  ( to create and save the file)
+
+git add filename ( to add files in local)
+git commit -m "message" (to save in local)
+git push -u origin branchname ( to push local into remote)
+git log --oneline (it shows the list of commits)
+git cherry-pick
+git rebase
+git merge
+ 
+
+
+
+ 
